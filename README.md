@@ -4,13 +4,12 @@ This design was created during the 24 hour *Digital-Design Hackathon* which was 
 
 The Hackathon evolved around a brief from a company called *AeroGuest*which is a digital hotel platform and app of the future, as they describe themselves. On their website, they write their vision behind AeroGuest, which is to recreate the relationship between hotel and guest and to optimize the way we travel through digitalization and IoT.
 
+![image-20190306201500878](/https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/20190301_190810.jpg)
+
 AeroGuest initiated the Hackathon with a short presentation in which they presented there app and the design brief
 
 > “What kind of service can we offer a guest before, during or after their hotel stay that is commercially both relevant convenient and attractive?”
 >
-
-
-![image-20190306201500878](/https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/20190301_190810.jpg)
 
 *Brainstorming phase with whiteboard and post-it’s for rapid idea-generation*
 
