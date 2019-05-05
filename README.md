@@ -1,10 +1,3 @@
----
-layout: Article
-title: The Receptionist
-author:	Frederik la Cour
-date: 06-03-2019
----
-
 This design was created during the 24 hour *Digital-Design Hackathon* which was held between the 1st of march17:00 to 2nd of march 17:00.
 
 ## Digital Design Hackathon 2019
@@ -16,7 +9,7 @@ AeroGuest initiated the Hackathon with a short presentation in which they presen
 > “What kind of service can we offer a guest before, during or after their hotel stay that is commercially both relevant convenient and attractive?”
 >
 
-![image-20190306201500878](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201500878.png)
+![image-20190306201500878](/https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/20190301_190810.jpg)
 
 *Brainstorming phase with whiteboard and post-it’s for rapid idea-generation*
 
@@ -32,13 +25,13 @@ As we progress further in the process we started to slowly frame the design prob
 
 This resulted in a series of ethnographic qualitative interviews with four different receptionist at four different hotels or hostels. (Cabinn hotel Aarhus, Scandic Aarhus City, Hotel Ritz Aarhus City, Hostel City Sleep-In)
 
-![image-20190306201557942](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201557942.png)
+![image-20190306201557942](https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/20190302_005105.jpg)
 
 *Notes: Interviews with the receptionists*
 
 The data we had gathered from the interviews was extremely valuable in our design process, due to fact that it gave us a first-hand insight into the life and practice of a receptionist. from the interviews, we concluded that the human contact between the guest and receptionist is very important especially in cases where the guest might have special needs or questions.
 
-![image-20190306201630635](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201630635.png)
+![image-20190306201630635](https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/Screenshot_20190306-153401_Google-Play-Store.jpg)
 
 *AeroGuest “Here to Help”*
 
@@ -60,7 +53,7 @@ In order for us to regain control over the design process, we read about a conce
 
 ## Making the prototype
 
-![image-20190306201800206](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201800206.png)
+![image-20190306201800206](https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/TheReceptionistprocess.jpeg)
 
 *Designing the Prototype*
 
@@ -68,7 +61,7 @@ The development of the prototype was quite hectic since we had about 1 hour and 
 
 The prototype was constructed by laser-cutting transparent acrylic sheets that would then later be assembled into a box with a heart motif on the front.
 
-![image-20190306201827572](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201827572.png)
+![image-20190306201827572](https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/companion%20box.png)
 
 *The template for laser-cutting the acrylic sheets into the box*
 
@@ -76,7 +69,7 @@ The box would then contain approximately 16 neopixels that would pulsate in a vi
 
 ## The Receptionist
 
-![image-20190306201851154](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201851154.png)
+![image-20190306201851154](https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/TheReceptionist.png)
 
 *By Mark, Margrete, Helena, Martin and la Cour*
 
@@ -84,7 +77,7 @@ This design focuses on the increasingly digitalized hotel experience, within whi
 
 with this design we won the Digital Design Hackathon 2019
 
-![image-20190306201932329](/Users/Pacour/Library/Application Support/typora-user-images/image-20190306201932329.png)
+![image-20190306201932329](https://github.com/L4COUR/DD-Hackathon2019/blob/master/Media/WinningtheDDhackathon2019.jpg)
 
 Winning The DD-Hackathon 2019 
 (*Margrethe, Mark, Helena & la Cour*)
